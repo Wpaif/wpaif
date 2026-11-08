@@ -1,5 +1,13 @@
-<div>
-  <a href="https://github.com/Wpaif">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wpaif&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wpaif&layout=compact&langs_count=6&theme=codeSTACKr"/>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=500&lines=Wilian+Ferreira;rust+%C2%B7+linux+%C2%B7+gtk4" alt="Wilian Ferreira"/>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=rust,c,cpp,ruby,svelte,bash,arch,neovim&theme=dark" alt="stack"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Wpaif&theme=tokyonight&hide_border=true&background=00000000" alt="streak"/>
+
 </div>
